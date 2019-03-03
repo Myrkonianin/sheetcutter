@@ -1,0 +1,8 @@
+D:\Projects\C#Develop\SheetCutter\SheetCutter\obj\Debug\SheetCutter.csprojResolveAssemblyReference.cache
+D:\Projects\C#Develop\SheetCutter\SheetCutter\obj\Debug\SheetCutter.MainForm.resources
+D:\Projects\C#Develop\SheetCutter\SheetCutter\obj\Debug\SheetCutter.csproj.GenerateResource.Cache
+D:\Projects\C#Develop\SheetCutter\SheetCutter\bin\Debug\SheetCutter.exe.config
+D:\Projects\C#Develop\SheetCutter\SheetCutter\bin\Debug\SheetCutter.exe
+D:\Projects\C#Develop\SheetCutter\SheetCutter\bin\Debug\SheetCutter.pdb
+D:\Projects\C#Develop\SheetCutter\SheetCutter\obj\Debug\SheetCutter.exe
+D:\Projects\C#Develop\SheetCutter\SheetCutter\obj\Debug\SheetCutter.pdb
